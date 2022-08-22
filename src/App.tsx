@@ -1,7 +1,7 @@
 const App: React.FC = () => {
   return (
     <div>
-      <h1>Vite + React</h1>
+      <h1 className="text-3xl font-bold">React template</h1>
     </div>
   )
 }
