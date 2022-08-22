@@ -1,4 +1,4 @@
-function App() {
+const App: React.FC = () => {
   return (
     <div>
       <h1>Vite + React</h1>
@@ -6,4 +6,4 @@ function App() {
   )
 }
 
-export default App;
+export default App
