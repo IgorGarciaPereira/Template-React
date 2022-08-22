@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  app:
+    container_name: "template_react"
+    ports:
+      - 80:80
+    build: .
