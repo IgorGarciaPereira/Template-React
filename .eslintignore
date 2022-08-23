@@ -27,3 +27,5 @@ yarn.lock
 *.scss
 *.cjs
 index.html
+*.mjs
+coverage
