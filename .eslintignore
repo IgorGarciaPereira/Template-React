@@ -29,3 +29,4 @@ yarn.lock
 index.html
 *.mjs
 coverage
+*.d.ts
